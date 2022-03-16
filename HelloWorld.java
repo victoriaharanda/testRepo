@@ -4,4 +4,4 @@ public class HelloWorld {
         System.out.println("Hello World");
     }
 }
-// edit for Lab 6!
+// edit for Lab 6
